@@ -8,7 +8,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Página primeira',
+          'May App',
 
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
